@@ -6,15 +6,15 @@
     "kategori": "Makanan",
     "alamat": "Korpri Raya",
     "hargaRataRata": 15000,
-    "jamBuka": "9.00-22.00"
+    "jamBuka": "Senin - Minggu, 9.00-22.00"
   },
   {
     "id": "2",
     "judul": "Marka",
-    "kategori": "makanan",
+    "kategori": "Makanan",
     "alamat": "Korpri raya",
     "hargaRataRata": 15000,
-    "jamBuka": "09.00-22.00"
+    "jamBuka": " Senin - Minggu, 09.00-22.00"
   },
   {
     "id": "3",
@@ -22,7 +22,7 @@
     "kategori": "Restoran",
     "alamat": "airan",
     "hargaRataRata": 25000,
-    "jamBuka": "08.00-21.00"
+    "jamBuka": "Senin - Minggu, 08.00-21.00"
   },
   {
     "id": "4",
@@ -30,7 +30,7 @@
     "kategori": "Makanan",
     "alamat": "Belwis",
     "hargaRataRata": 10000,
-    "jamBuka": "6.30-18.00"
+    "jamBuka": "Senin - Minggu, 6.30-18.00"
   },
   {
     "id": "5",
@@ -38,7 +38,7 @@
     "kategori": "Makanan",
     "alamat": "Jati agung",
     "hargaRataRata": 15000,
-    "jamBuka": "10.00-20.00"
+    "jamBuka": "Senin - Minggu, 10.00-05.00"
   },
   {
     "id": "6",
@@ -46,7 +46,7 @@
     "kategori": "Minuman",
     "alamat": "Korpri raya",
     "hargaRataRata": 12000,
-    "jamBuka": "10.00-20.00.00"
+    "jamBuka": "Senin - Minggu, 10.00-18.00."
   },
   {
     "id": "7",
@@ -54,7 +54,7 @@
     "kategori": "Makanan",
     "alamat": "Sukarame",
     "hargaRataRata": 17000,
-    "jamBuka": "10.00-22.00"
+    "jamBuka": "Senin - Minggu, 10.00-22.00"
   },
   {
     "id": "8",
@@ -62,7 +62,7 @@
     "kategori": "Kafe",
     "alamat": "Sukarame",
     "hargaRataRata": 20000,
-    "jamBuka": "10.00-23.00"
+    "jamBuka": "Senin - Minggu, 10.00-23.00"
   },
   {
     "id": "9",
@@ -70,7 +70,7 @@
     "kategori": "Makanan",
     "alamat": "Korpri Raya",
     "hargaRataRata": 20000,
-    "jamBuka": "10.00-22.00"
+    "jamBuka": "Senin - Minggu, 10.00-22.00"
   },
   {
     "id": "10",
@@ -78,6 +78,6 @@
     "kategori": "Makanan",
     "alamat": "Sukarame",
     "hargaRataRata": 15000,
-    "jamBuka": "11.00-21.00"
+    "jamBuka": "Senin - Minggu, 11.00-21.00"
   }
 ]

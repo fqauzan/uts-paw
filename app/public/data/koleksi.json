@@ -2,81 +2,81 @@
 [
   {
     "id": "1",
-    "judul": "Warung Nasi Goreng",
+    "judul": "Wartel",
     "kategori": "Makanan",
-    "alamat": "Bandar Lampung",
+    "alamat": "Korpri Raya",
     "hargaRataRata": 15000,
-    "jamBuka": "17.00-23.00"
+    "jamBuka": "9.00-22.00"
   },
   {
     "id": "2",
-    "judul": "Kedai Kopi Lampung",
-    "kategori": "Kafe",
-    "alamat": "Bandar Lampung",
-    "hargaRataRata": 20000,
+    "judul": "Marka",
+    "kategori": "tempat makan",
+    "alamat": "Korpri raya",
+    "hargaRataRata": 15000,
     "jamBuka": "09.00-22.00"
   },
   {
     "id": "3",
     "judul": "Rumah Makan Padang",
     "kategori": "Restoran",
-    "alamat": "Bandar Lampung",
+    "alamat": "airan",
     "hargaRataRata": 25000,
     "jamBuka": "08.00-21.00"
   },
   {
     "id": "4",
-    "judul": "Bakso Pak Kumis",
+    "judul": "bubur ayam cirebon",
     "kategori": "Makanan",
-    "alamat": "Bandar Lampung",
-    "hargaRataRata": 18000,
-    "jamBuka": "10.00-21.00"
+    "alamat": "Belwis",
+    "hargaRataRata": 10000,
+    "jamBuka": "6.30-18.00"
   },
   {
     "id": "5",
-    "judul": "Mie Ayam Enak",
+    "judul": "Mie Gacoan",
     "kategori": "Makanan",
-    "alamat": "Bandar Lampung",
+    "alamat": "Jati agung",
     "hargaRataRata": 15000,
     "jamBuka": "10.00-20.00"
   },
   {
     "id": "6",
-    "judul": "Kedai Es Coklat",
+    "judul": "Matcha Boy",
     "kategori": "Minuman",
-    "alamat": "Bandar Lampung",
+    "alamat": "Korpri raya",
     "hargaRataRata": 12000,
-    "jamBuka": "11.00-22.00"
+    "jamBuka": "10.00-20.00.00"
   },
   {
     "id": "7",
-    "judul": "Ayam Geprek Mantap",
+    "judul": "Ayam Geprek Masboy",
     "kategori": "Makanan",
-    "alamat": "Bandar Lampung",
+    "alamat": "Sukarame",
     "hargaRataRata": 17000,
     "jamBuka": "10.00-22.00"
   },
   {
     "id": "8",
-    "judul": "Cafe Senja",
+    "judul": "Cafe kolo garden",
     "kategori": "Kafe",
-    "alamat": "Bandar Lampung",
-    "hargaRataRata": 30000,
-    "jamBuka": "15.00-23.00"
+    "alamat": "Sukarame",
+    "hargaRataRata": 20000,
+    "jamBuka": "10.00-23.00"
   },
   {
     "id": "9",
-    "judul": "Sate Madura",
+    "judul": "ayam gambreng",
     "kategori": "Makanan",
-    "alamat": "Bandar Lampung",
+    "alamat": "Korpri Raya",
     "hargaRataRata": 20000,
-    "jamBuka": "17.00-23.00"
+    "jamBuka": "10.00-22.00"
   },
   {
     "id": "10",
-    "judul": "Seblak Pedas",
+    "judul": "Seblak Mahzam",
     "kategori": "Makanan",
-    "alamat": "Bandar Lampung",
+    "alamat": "Sukarame",
     "hargaRataRata": 15000,
     "jamBuka": "11.00-21.00"
   }

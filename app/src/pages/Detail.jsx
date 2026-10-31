@@ -32,7 +32,7 @@ export default function Detail() {
         <dd>{item.kategori}</dd>
         <dt>Alamat : </dt>
         <dd>{item.alamat}</dd>
-        <dt>Harga rata - rata</dt>
+        <dt>Harga rata-rata (Rp)</dt>
         <dd>{item.hargaRataRata}</dd>
          <dt>Jam buka</dt>
         <dd>{item.jamBuka}</dd>

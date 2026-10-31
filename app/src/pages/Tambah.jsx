@@ -27,7 +27,7 @@ export default function Tambah() {
     <form className="formulir" onSubmit={simpan} noValidate>
       <h1>Tambah Daftar Kuliner</h1>
 
-      <label htmlFor="Tempat Kuliner">Tempat Kuliner</label>
+      <label htmlFor="judul">judul Tempat Kuliner</label>
       <input id="judul" name="judul" value={form.judul} onChange={ubah} />
       {galat && <p role="alert">{galat}</p>}
 
@@ -40,13 +40,13 @@ export default function Tambah() {
       </select>
 
       <label htmlFor="alamat">Alamat</label>
-      <input id="alamat" name="alamat" value={form.Alamat} onChange={ubah} />
+      <input id="alamat" name="alamat" value={form.alamat} onChange={ubah} />
 
-      <label htmlFor="hargaRataRata">Harga Rata Rata (Rp) </label>
+      <label htmlFor="hargaRataRata">Harga Rata-Rata (Rp)</label>
       <input id="hargaRataRata" name="hargaRataRata" type="number" value={form.hargaRataRata} onChange={ubah} />
   
       <label htmlFor="jamBuka"> Jam Buka </label>
-      <input id="jamBuka" name="jamBuka" type="time" value={form.jambuka} onChange={ubah} />
+      <input id="jamBuka" name="jamBuka" type="time" value={form.jamBuka} onChange={ubah} />
 
       <button type="submit">Simpan</button>
     </form>

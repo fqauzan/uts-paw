@@ -62,8 +62,7 @@ Penilaian akhir selalu memakai `grader/` dan `shared/` versi repo induk, jadi me
 
 Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Kerangka berikut boleh dipakai:
 
-```markdown
-# Nama Aplikasi
+# Direktori Kuliner Sekitar Kampus
 
 Nama: Fauzan Habib Pratama
 NIM: 124140017
@@ -71,11 +70,33 @@ Kelas: RB
 Tema: Direktori Kuliner Sekitar Kampus
 Deployment: https://USERNAME.fqauzan.io/uts-paw/
 
-![Tangkapan layar beranda](docs/beranda.png)
+-Tampilan Beranda
+![Tangkapan layar beranda](image/beranda.png)
+-Tampilan koleksi
+![Tangkapan layar koleksi](image/koleksi.png)
+-Tampilan detail
+![Tangkapan layar detail](image/detail.png)
+-Tampilan tambah
+![Tangkapan layar tambah](image/tambahl.png)
+-Tampilan statistik
+![Tangkapan layar statistik](image/statistik.png)
+-Tampilan tentang
+![Tangkapan layar tentang](image/tentang.png)
+-Tampilan error 404
+![Tangkapan layar ](image/404.png)
 
 ## Fitur
 
-- ...
+- Menampilkan daftar kuliner
+- Mencari kuliner berdasarkan judul
+- Memfilter kuliner berdasarkan kategori
+- Menampilkan ddetail kuliner
+- Menambahkan data kuliner baru
+- Menghapus data kuliner
+- Menampilkan statistik jumlah kuliner berdasaarkan kategori
+- Menggunakan localStorage untuk menyimpan data perubahan
+- Menampilkan halamman 404 untuk rute yang tidak dikenal
+- Tampilan responsif menggunakan css
 
 ## Menjalankan secara lokal
 
@@ -85,5 +106,13 @@ npm run dev
 
 ## Konsep React yang dipakai
 
-- ...
-```
+- component
+- useState dan useEffect
+- Context API
+- Custom Hook
+- React Router
+- useParams dan useNavigate
+- Fetch API
+- localStorage
+
+# sekian terimakasihh 

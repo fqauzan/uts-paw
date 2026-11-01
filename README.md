@@ -77,7 +77,7 @@ Deployment: https://USERNAME.fqauzan.io/uts-paw/
 -Tampilan detail
 ![Tangkapan layar detail](image/detail.png)
 -Tampilan tambah
-![Tangkapan layar tambah](image/tambahl.png)
+![Tangkapan layar tambah](image/tambah.png)
 -Tampilan statistik
 ![Tangkapan layar statistik](image/statistik.png)
 -Tampilan tentang

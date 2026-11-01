@@ -64,11 +64,11 @@ Ganti seluruh isi berkas ini dengan dokumentasi aplikasimu (butir rubrik A4). Ke
 
 # Direktori Kuliner Sekitar Kampus
 
-Nama: Fauzan Habib Pratama
-NIM: 124140017
-Kelas: RB
-Tema: Direktori Kuliner Sekitar Kampus
-Deployment: https://USERNAME.fqauzan.io/uts-paw/
+Nama: Fauzan Habib Pratama<br>
+NIM: 124140017 <br>
+Kelas: RB <br>
+Tema: Direktori Kuliner Sekitar Kampus<br> 
+Deployment: https://fqauzan.github.io/uts-paw/ 
 
 -Tampilan Beranda
 ![Tangkapan layar beranda](image/beranda.png)
@@ -77,7 +77,7 @@ Deployment: https://USERNAME.fqauzan.io/uts-paw/
 -Tampilan detail
 ![Tangkapan layar detail](image/detail.png)
 -Tampilan tambah
-![Tangkapan layar tambah](image/tambahl.png)
+![Tangkapan layar tambah](image/tambah.png)
 -Tampilan statistik
 ![Tangkapan layar statistik](image/statistik.png)
 -Tampilan tentang
@@ -100,8 +100,8 @@ Deployment: https://USERNAME.fqauzan.io/uts-paw/
 
 ## Menjalankan secara lokal
 
-cd app
-npm install
+cd app<br>
+npm install<br>
 npm run dev
 
 ## Konsep React yang dipakai
